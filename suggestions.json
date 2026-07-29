@@ -1,0 +1,34 @@
+[
+    {
+        "text": "¿Cómo accedo a la biblioteca virtual?",
+        "label": "Acceso"
+    },
+    {
+        "text": "¿Cuál es el monto de la inversión?",
+        "label": "Inversión"
+    },
+    {
+        "text": "¿Está disponible las 24 horas?",
+        "label": "Disponibilidad"
+    },
+    {
+        "text": "Necesito ayuda con Normas APA",
+        "label": "Normas APA"
+    },
+    {
+        "text": "Información sobre capacitaciones",
+        "label": "Capacitaciones"
+    },
+    {
+        "text": "¿Qué bases de datos tienen disponibles?",
+        "label": "Bases de datos"
+    },
+    {
+        "text": "Quiero hablar con una bibliotecóloga",
+        "label": "Contacto"
+    },
+    {
+        "text": "¿Quiénes conforman el equipo?",
+        "label": "Equipo"
+    }
+]
