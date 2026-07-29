@@ -1,0 +1,87 @@
+[
+    {
+        "id": "acceso",
+        "keywords": ["acceso", "acced", "entrar", "ingresar", "como entro", "como accedo", "login", "iniciar sesion"],
+        "response": "Puedes acceder desde el Campus Virtual, en el menú 'Biblioteca Virtual'. Solo necesitas tu usuario y contraseña institucional."
+    },
+    {
+        "id": "costo",
+        "keywords": ["cuesta", "precio", "costo", "vale", "monto", "inversion", "pago", "pagar"],
+        "response": "El acceso a la Biblioteca Virtual tiene un costo de ₡7,500 e incluye más de 50,000 libros digitales. Puedes pagar en Cajas y enviar el comprobante a pagos@castrocarazo.ac.cr"
+    },
+    {
+        "id": "disponibilidad",
+        "keywords": ["24", "siempre", "horario virtual", "disponible", "todo el tiempo", "fin de semana"],
+        "response": "Sí, la Biblioteca Virtual está disponible las 24 horas, los 7 días de la semana, desde cualquier lugar con conexión a internet."
+    },
+    {
+        "id": "horario_presencial",
+        "keywords": ["horario de atencion", "horario presencial", "a que hora abren", "a que hora cierran", "horario biblioteca fisica"],
+        "response": "La biblioteca física atiende de lunes a viernes de 8:00 a.m. a 6:00 p.m. Te recomendamos confirmar horarios especiales en periodos de exámenes con tu sede."
+    },
+    {
+        "id": "apa",
+        "keywords": ["apa", "normas apa", "formato apa", "citar", "citas", "referencias bibliograficas"],
+        "response": "Ofrecemos capacitaciones sobre Normas APA 7 (citas parentéticas, narrativas, directas, en bloque, indirectas, de fuente secundaria y comunicaciones personales), tanto sincrónicas como asincrónicas, además de asesorías personalizadas. Escríbenos para agendar una."
+    },
+    {
+        "id": "capacitaciones",
+        "keywords": ["capacitacion", "capacitaciones", "taller", "talleres", "curso", "formacion", "webinar"],
+        "response": "Las capacitaciones de la Biblioteca Virtual se brindan cada cuatrimestre e incluyen temas como uso de bases de datos, Normas APA y estrategias de búsqueda académica. Consulta el calendario vigente en el Campus Virtual."
+    },
+    {
+        "id": "certificado_capacitacion",
+        "keywords": ["certificado", "constancia", "diploma capacitacion"],
+        "response": "Al finalizar cada capacitación puedes solicitar tu certificado de participación escribiendo a la Biblioteca Virtual con el nombre del taller y la fecha en que lo tomaste."
+    },
+    {
+        "id": "areas_academicas",
+        "keywords": ["ingenieria", "administracion", "educacion", "derecho", "contabilidad", "area academica", "carrera"],
+        "response": "La Biblioteca Virtual cubre todas las áreas académicas de la universidad: Ingeniería, Administración, Educación, Derecho, Contabilidad y más."
+    },
+    {
+        "id": "bases_datos",
+        "keywords": ["oreilly", "o'reilly", "alphacloud", "tirant", "tirant prime", "bases de datos", "plataformas", "recursos digitales"],
+        "response": "Contamos con plataformas especializadas como O'Reilly (tecnología y programación), AlphaCloud y Tirant Prime (ciencias jurídicas), además de miles de libros electrónicos por área."
+    },
+    {
+        "id": "prestamo_fisico",
+        "keywords": ["prestamo", "prestar libro", "devolucion", "devolver libro", "renovar prestamo", "libro fisico"],
+        "response": "Los préstamos de material físico se gestionan directamente en la biblioteca de tu sede. Puedes renovarlos si no tienen reservas pendientes de otro estudiante."
+    },
+    {
+        "id": "repositorio_tesis",
+        "keywords": ["tesis", "repositorio", "trabajo final de graduacion", "tfg", "proyecto de graduacion"],
+        "response": "Las tesis y trabajos finales de graduación se resguardan en el repositorio institucional. Para consultar o entregar tu trabajo, comunícate con la Biblioteca Virtual de tu sede."
+    },
+    {
+        "id": "buscador",
+        "keywords": ["como busco", "como encuentro un libro", "buscador", "catalogo", "koha"],
+        "response": "Puedes usar el buscador dentro del Campus Virtual o el catálogo en línea para localizar libros, tesis y artículos por título, autor o tema."
+    },
+    {
+        "id": "contacto_humano",
+        "keywords": ["hablar con alguien", "persona real", "bibliotecologa", "contacto", "ayuda humana", "asesor", "no me sirve"],
+        "response": "Con gusto te podemos conectar con una bibliotecóloga de tu sede. Escríbenos a biblioteca@castrocarazo.ac.cr indicando tu consulta y te responderemos a la brevedad."
+    },
+    {
+        "id": "equipo",
+        "keywords": ["equipo", "bibliotecologas", "quienes son", "staff biblioteca"],
+        "response": "El equipo de la Biblioteca Virtual está conformado por bibliotecólogas profesionales comprometidas con brindarte un servicio de calidad, cercano y eficiente en cada sede."
+    },
+    {
+        "id": "saludo",
+        "keywords": ["hola", "buenas", "buenos dias", "buenas tardes", "buenas noches", "que tal"],
+        "response": "¡Hola! 👋 Soy el Asistente de la Biblioteca Virtual. Puedo ayudarte con acceso, costos, capacitaciones, Normas APA y más. ¿En qué te ayudo hoy?"
+    },
+    {
+        "id": "agradecimiento",
+        "keywords": ["gracias", "muchas gracias", "te agradezco"],
+        "response": "¡Con mucho gusto! Si tienes otra consulta sobre la Biblioteca Virtual, aquí estoy 📚"
+    },
+    {
+        "id": "ayuda_general",
+        "keywords": ["que puedes hacer", "ayuda", "opciones", "menu"],
+        "response": "Puedo ayudarte con: acceso a la Biblioteca Virtual, costos, disponibilidad, Normas APA, capacitaciones, bases de datos, préstamos y contacto con el equipo. ¿Sobre cuál te gustaría saber más?"
+    }
+]
